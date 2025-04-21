@@ -148,4 +148,4 @@ drafts/*
 !plans.txt
 # ігнорувати файл secret.md
 secret.md
-.gitignore
+
